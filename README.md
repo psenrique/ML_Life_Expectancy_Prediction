@@ -3,4 +3,4 @@ Life insurance is a way to insure someone's life and in the event of a terminal 
 
 Our proposed approach is to use perform regression analysis to determine these key features from WHO life expectancy data.
 
-Dataset: Rajarshi, K. (2018, February 10). Life expectancy (WHO). Kaggle. https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who Projecy GitHub Link: https://github.com/carson-edmonds/AAI-510_Life_Expectancy_Prediction
+Dataset: Rajarshi, K. (2018, February 10). Life expectancy (WHO). Kaggle. https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who 
